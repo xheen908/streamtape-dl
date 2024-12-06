@@ -1,5 +1,5 @@
 # streamtape-dl
-A Python downloader for voe.sx videos
+A Python downloader for streamtape videos
 
 # Warning
 
